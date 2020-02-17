@@ -1,19 +1,19 @@
 ---
 title: The I-SCAN study as a Tryggve use case
 summary: I-SCAN is a study exploring the risk of cancer in patients with inflammatory bowel disease. There has been a belief that patients with IBD have an increased risk of cancer, but studies have shown that for many patients it may not be increased at all. The collaborative project, with the help of Tryggve, takes advantage of the Nordic registries and aims to give updated and valid estimates of cancer risk in IBD.
-photo: "/assets/images/latest-news-12-sunset.jpeg"
+photo: "/assets/images/latest-news-12.png"
 ---
 
 The I-SCAN study as a Tryggve use case
 ===============================
 
 <img src="{% include baseurl %}/assets/images/news/I-SCAN_LiseMHelsingen.jpg"
-     alt="Lise M. Helsingen"
+     alt="Lise M. Helsingen. Photo by Anita Aalby, University of Oslo."
      style="float: right; margin: 10px; height: 328px;" /><br>
 
 I-SCAN is a study exploring the risk of cancer in patients with inflammatory bowel disease. Generally, there has been a belief that patients with IBD have an increased risk of cancer, but studies have shown that for many patients it may not be increased at all. The collaborative project, with the help of Tryggve, takes advantage of the Nordic registries and aims to give updated and valid estimates of cancer risk in IBD. 
 
-The study is part of the Tryggve use case programme. In order to learn more about it, we asked the I-SCAN researcher Lise M. Helsingen from the University of Oslo to tell us what the study is about. 
+The study is part of the Tryggve use case programme. In order to learn more about it, we asked the I-SCAN researcher **Lise M. Helsingen** from the University of Oslo to tell us what the study is about. 
 
 ### A study that aims to reduce unnecessary clinical measures
 
@@ -39,4 +39,4 @@ People in the Nordic countries benefit from the I-SCAN study because it provides
 
 For Helsingen, it has been a real learning experience to be a part of such a versatile research study. “I am a medical doctor by training, and before starting this project I was new to research. After three years working on the I-SCAN study I have learnt a lot! Also about things I did not foresee, such as data sharing, the art of research collaboration, GDPR and database management.”
 
-*Lise's photo is taken by Anita Aalby, University of Oslo.*
+*Helsingen's photo is taken by Anita Aalby, University of Oslo.*
