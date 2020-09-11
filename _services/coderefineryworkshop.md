@@ -4,13 +4,14 @@ include: service
 name: CodeRefinery workshop
 description: 3-day advanced workshops
 service_provider_name: CodeRefinery
-service_provider_country_code: NO
-service_provider_homepage: 
+service_provider_country_code: 
+service_provider_homepage: https://coderefinery.org/
 category: Trainings
 type: Service
-status: Active
+status: Paused
 support_email: support@coderefinery.org
 access_email: None
+datacite_doi: 10.23673/ghsx-8z44
 start: 2019-01-01
 end: 2020-12-31
 results:

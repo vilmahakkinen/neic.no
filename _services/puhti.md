@@ -4,13 +4,14 @@ include: service
 name: Puhti
 description: Computing cluster for serial and parallel jobs.
 service_provider_name: CSC
-service_provider_country_code: FI
+service_provider_country_code: "FI"
 service_provider_homepage: http://csc.fi
 category: HPC
 type: Service
 status: Paused
 support_email: servicedesk@csc.fi
 access_email: None
+datacite_doi: 10.23673/84jn-jz91
 start: 2019-01-01
 end: 2020-12-31
 results:

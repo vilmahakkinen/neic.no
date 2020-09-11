@@ -78,9 +78,30 @@ show-groups:
     description: Project ownership issues.
     minutes: https://wiki.neic.no/int/Category:Tryggve_management_meetings
     frequency: Weekly
+  tryggve2-links:
+    name: Useful links
+    description: Tryggve useful links
+    absolute_link: https://neic.no/tryggve/links/
+    linkname: links
   tryggve2-mainpage:
     name: Tryggve main page
     absolute_link: https://neic.no/tryggve/
     linkname: Main page
 ---
 
+On this page you can find the latest news of the Tryggve project and past events
+
+### Johanna Törnroos wins the best presentation award at Elixir AHM 2020 
+
+Johanna Törnroos is the winner of the award for the best presentation at the Impact and Innovation Mini-
+Symposium during the All Hands Meeting 2020. She presented ‘Impact through Collaboration’ in the Nordics
+within The Nordic e-Infrastructure Collaboration (NeIC) — from exchanging knowledge to increasing
+competencies and research quality. She employed an example from the Tryggve2 Project, where NeIC
+supports the development of sensitive data management tools used, among others, in assessing the risk of
+heritable and familial cancers.
+
+More details and a recording of the presentation can be found on [Elixir Europe website](https://elixir-europe.org/news/johanna-tornroos-wins-best-presentation-award).
+
+### NeIC Tryggve at Elixir All-Hands Meeting 2020
+### Progress on Establishing the Norwegian Local EGA
+Read the latest Tryggve news in [June Newsletter](https://drive.google.com/file/d/1pLx_vaegpZzZhNQx81aQ3uTG1N4hY8hS/view).

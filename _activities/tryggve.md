@@ -4,7 +4,7 @@ include: tryggve-menu
 name: Tryggve
 type:
 tagline: TRYGGVE - Collaboration for Sensitive Data
-leader: antti-pursula
+leader: abdulrahman-azab
 phase: Implementation
 start: 2014-10-21
 end: 2020-10-21
@@ -74,6 +74,11 @@ show-groups:
     description: Project owner (NeIC) and project manager.
     minutes: https://wiki.neic.no/int/Category:Tryggve_management_meetings
     frequency: Weekly
+  tryggve2-links:
+    name: Useful links
+    description: Tryggve useful links
+    absolute_link: https://neic.no/tryggve/links/
+    linkname: links
   tryggve2-mainpage:
     name: Tryggve main page
     absolute_link: https://neic.no/tryggve/
